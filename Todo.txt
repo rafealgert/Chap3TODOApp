@@ -1,0 +1,3 @@
+Learn Git
+Install MicroPython on Pico
+
